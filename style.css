@@ -22,3 +22,10 @@ body {
     height: 100vh;
     margin: 0;
 }
+/* código omitido */
+
+h1 {
+    font-size: 2rem;
+    color: var(--bg-color);
+     font-weight: 700;
+}
